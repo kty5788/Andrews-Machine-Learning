@@ -18,6 +18,10 @@ First course of Machine Learning first week
 
 
 
+
+
+
+
 * 이 강의에서는 최신 알고리즘들에 대해 공부 할 것이다. but, 어떻게 알고리즘이 유도되는지 수학적으로 몰라도 OK
 
 
@@ -38,6 +42,7 @@ First course of Machine Learning first week
 * 기계 학습(Machine Learning)이 발전하게 된 이유?
 
 -- Database Mining (데이터 수집)으로 우리가 가지고 있는 데이터가 전보다 훨씬 많아졌기 때문이다.
+
 -- Applications can't program by hand(사람의 손으로 만들 수 없는 것)은 기계 학습을 통해 program하는 것이 더 유용하기 때문이다.
 
 
