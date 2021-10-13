@@ -1,7 +1,7 @@
 # Welcome
-<pre>
-First course of Machine Learning first week
+First course of Machine Learning first week<br>
 머신러닝 1주차의 첫번째
+<pre>
 
 요즘 사람들은 하루에 수십번 머신러닝 알고리즘을 쓰고 있다.
 
@@ -24,6 +24,6 @@ but, 어떻게 알고리즘이 유도되는지 수학적으로 몰라도 OK
   - Applications can't program by hand(사람의 손으로 만들 수 없는 것)은 기계 학습을 통해 program하는 것이 더 유용하기 때문이다.
   
   
-정리)
+한줄 정리)
 *** 이 강의를 통해 주요 기계학습기술들을 선택하고 여러 알고리즘 중 하나를 어떻게 선택해야 하는지 언제 그 알고리즘을 사용하는지 배울 것이다. ***
 </pre>
