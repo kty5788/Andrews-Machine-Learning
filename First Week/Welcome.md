@@ -31,7 +31,7 @@ First course of Machine Learning first week
 
 * 오늘날 기계학습이 왜 사용되고 있을까? 
 
--- 기계가 스스로 학습하여 컴퓨터에 새로운 능력을 불어넣어 향상시켜주기 때문이다.
+    기계가 스스로 학습하여 컴퓨터에 새로운 능력을 불어넣어 향상시켜주기 때문이다.
 
 
 
@@ -41,9 +41,9 @@ First course of Machine Learning first week
 
 * 기계 학습(Machine Learning)이 발전하게 된 이유?
 
--- Database Mining (데이터 수집)으로 우리가 가지고 있는 데이터가 전보다 훨씬 많아졌기 때문이다.
+    Database Mining (데이터 수집)으로 우리가 가지고 있는 데이터가 전보다 훨씬 많아졌기 때문이다.
 
--- Applications can't program by hand(사람의 손으로 만들 수 없는 것)은 기계 학습을 통해 program하는 것이 더 유용하기 때문이다.
+    Applications can't program by hand(사람의 손으로 만들 수 없는 것)은 기계 학습을 통해 program하는 것이 더 유용하기 때문이다.
 
 
 
