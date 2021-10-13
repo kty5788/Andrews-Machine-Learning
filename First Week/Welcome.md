@@ -1,6 +1,5 @@
 # Welcome
-First course of Machine Learning first week
-
+First course of Machine Learning first week<br>
 머신러닝 1주차의 첫번째
 
 
