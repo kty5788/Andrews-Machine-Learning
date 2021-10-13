@@ -1,7 +1,7 @@
 # What is Machine Learning?
-<pre>
-Second course of Machine Learning
+Second course of Machine Learning<br>
 머신 러닝 강의의 두번째 강의
+<pre>
 
 
 학습목표 : '기계학습'을 정의하고 '기계학습'을 언제 사용하면 좋을 지 파악하는 것
