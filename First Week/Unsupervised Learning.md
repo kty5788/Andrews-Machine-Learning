@@ -3,6 +3,7 @@ Andrew Ng Machine Learning fourth course<br>
 Andrew Ng 머신 러닝 4번째 강의
 <pre>
 전에 배웠던 악성 종양 구별 데이터를 다시 불러와보자.
+
 <img width="748" alt="스크린샷 2021-10-15 오전 8 48 46" src="https://user-images.githubusercontent.com/63940620/137410376-e63541a8-d2bf-4c53-8646-9261670208d1.png">
 
 지도 학습에서는 명시적으로 어떤 게 양성인지 악성인지 소위 말하는 '정답'이 있다.
