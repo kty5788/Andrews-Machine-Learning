@@ -1,5 +1,5 @@
 # Supervised Learning
-Andrew Ng's Machine Learning third course
+Andrew Ng's Machine Learning third course<br>
 Andrew Ng 의 머신러닝 3번째 강의
 <pre>
 < 훌륭한 머신러닝 알고리즘의 예제!>
