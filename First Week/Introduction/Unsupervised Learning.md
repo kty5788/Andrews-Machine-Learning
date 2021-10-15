@@ -1,6 +1,5 @@
 # Unsupervised Learning
-Andrew Ng Machine Learning fourth course<br>
-Andrew Ng 머신 러닝 4번째 강의
+머신러닝 4
 <pre>
 전에 배웠던 악성 종양 구별 데이터를 다시 불러와보자.
 
