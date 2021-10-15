@@ -1,6 +1,5 @@
 # Welcome
-First course of Machine Learning first week<br>
-머신러닝 1주차의 첫번째
+머신러닝 1
 <pre>
 
 요즘 사람들은 하루에 수십번 머신러닝 알고리즘을 쓰고 있다.
