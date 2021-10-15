@@ -1,5 +1,5 @@
 # Unsupervised Learning
-머신러닝 4
+머신러닝 4강
 <pre>
 전에 배웠던 악성 종양 구별 데이터를 다시 불러와보자.
 
