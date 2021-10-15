@@ -1,5 +1,5 @@
 # Supervised Learning
-머신러닝 3
+머신러닝 3강
 <pre>
 < 훌륭한 머신러닝 알고리즘의 예제!>
 
