@@ -1,5 +1,5 @@
 # What is Machine Learning?
-머신러닝 2
+머신러닝 2강
 <pre>
 
 
