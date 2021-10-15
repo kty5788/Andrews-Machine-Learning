@@ -1,6 +1,5 @@
 # What is Machine Learning?
-Second course of Machine Learning<br>
-머신 러닝 강의의 두번째 강의
+머신러닝 2
 <pre>
 
 
