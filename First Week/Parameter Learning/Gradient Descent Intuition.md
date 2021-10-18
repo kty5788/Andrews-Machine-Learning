@@ -68,6 +68,7 @@ a값이 너무 크다면 값이 최솟값을 넘어가서 최솟값에 도달하
 
 만약 이러한 함수가 있다고 하자.
 <img width="758" alt="스크린샷 2021-10-18 오후 4 40 28" src="https://user-images.githubusercontent.com/63940620/137688569-3b175d90-17b8-4c92-9961-15b5df3736dd.png">
+
 적절한 변수를 놓았을 때 어느 위치냐에 따라 지역 최솟값(Local minima) or 전역 최소값(global minima)가 될 수 있다.
 (어느 한 논문에 따르면 Local minima에 빠질 확률이 매우 매우 적다고 한다. https://darkpgmr.tistory.com/148)
 </pre>
