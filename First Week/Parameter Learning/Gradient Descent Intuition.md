@@ -7,4 +7,7 @@
 이번 글에서는 이 애매한 부분을 해결할 것이다.
 
 
+<img width="590" alt="스크린샷 2021-10-18 오후 3 57 12" src="https://user-images.githubusercontent.com/63940620/137683106-cc090ca0-f865-490e-a8ca-9b1bcb9cfb8b.png">
+
+
 </pre>
