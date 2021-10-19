@@ -31,6 +31,7 @@ x가 θ1일때 y가 J(θ1)인 그래프이다.
 
 
 
+
 다음으로 θ1 = 0.5인 원점을 지나는 직선을 그려보자.
 
 <img width="457" alt="스크린샷 2021-10-17 오전 11 41 23" src="https://user-images.githubusercontent.com/63940620/137608529-3cfea7a3-e7f7-445a-a1d0-421e5a08cb2a.png">
