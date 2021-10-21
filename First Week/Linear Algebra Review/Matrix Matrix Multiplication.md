@@ -25,12 +25,13 @@
 이러한 결과를 얻는다.
 결과적으로 2 * 3 행렬 , 3 * 2 행렬에서 2 * 2 행렬을 얻게 되었다.
 
-<img width="818" alt="스크린샷 2021-10-21 오후 6 14 53" src="https://user-images.githubusercontent.com/63940620/138248217-bbc2a391-f12b-437f-9c9f-03861ce6b0d1.png">
+<img width="820" alt="스크린샷 2021-10-21 오후 6 14 53" src="https://user-images.githubusercontent.com/63940620/138248217-bbc2a391-f12b-437f-9c9f-03861ce6b0d1.png">
 
 위의 그림은 행렬과 벡터의 곱 처럼 몇 차원의 행렬이 만들어지는지에 대한 것이다.
 주의할점으로는) 차원의 행렬이 행렬 * 벡터와 같은 것이지 값은 다르다는 것을 인지하자.
 
-![image](https://user-images.githubusercontent.com/63940620/138249173-aed7840d-5fae-48dd-add5-014089177691.png)
+<img width="820" alt="스크린샷 2021-10-21 오후 6 26 13" src="https://user-images.githubusercontent.com/63940620/138250095-1236a6e1-bfeb-42f0-96b2-16f062ce5cc7.png">
+
 저번 글을 이해했다면 이 그림 하나만으로 완벽하게 이해할 수 있다.
 
 그래서 이거를 왜 하는데?라고 물어본다면
